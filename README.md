@@ -89,7 +89,7 @@ Puedes consultar los cambios del proyecto en el archivo [CHANGELOG.md](/Markdown
 
 ## Licencia
 
-Este proyecto utiliza la licencia MIT, que permite utilizar, modificar y compartir el código manteniendo el aviso de licencia.
+He elegido la licencia MIT porque permite utilizar, modificar y compartir el código de forma sencilla, manteniendo el aviso de copyright.
 
 ## Autor
 
