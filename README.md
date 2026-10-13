@@ -1,70 +1,87 @@
-# EjercicioMarkdown
-## Gestor de tareas
+# Ejercicio Markdown
 
-![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
-![Markdown](https://img.shields.io/badge/documentaci%C3%B3n-Markdown-blue)
+![Markdown](https://img.shields.io/badge/Markdown-documentaci%C3%B3n-blue)
+![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)
 
-Aplicación sencilla para organizar tareas y consultar cuáles están completadas.
+Este repositorio sirve para practicar el lenguaje Markdown y aprender a documentar proyectos.
 
 ## Características
 
-- Crear tareas.
-- Consultar las tareas pendientes.
-- Marcar tareas como completadas.
+- Crear títulos y listas.
+- Añadir enlaces e imágenes.
+- Utilizar tablas y bloques de código.
+- Crear documentación para GitHub.
 
 ## Tecnologías utilizadas
 
-- HTML
-- CSS
-- JavaScript
 - Markdown
+- GitHub
 
-## Instalación
+## Imagen externa
 
-1. Clonar el repositorio.
-2. Abrir la carpeta del proyecto.
-3. Abrir el archivo `index.html` en el navegador.
+![Logo de Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
-## Funcionamiento
+## Imagen del repositorio
 
-```mermaid
-flowchart TD
-    A[Usuario] --> B[Gestor de tareas]
-    B --> C[Crear tarea]
-    B --> D[Consultar tareas]
-    B --> E[Completar tarea]
+![Imagen del proyecto](images/foto.jpg)
+
+*Nota: cambia `foto.jpg` por el nombre real de tu imagen.*
+
+## Ejemplo de código
+
+```javascript
+let mensaje = "Hola mundo";
+console.log(mensaje);
 ```
 
-## Tareas pendientes
+## Tabla de ejemplo
 
-- [x] Crear el README.
-- [x] Documentar las características.
-- [ ] Mejorar el diseño.
-- [ ] Añadir nuevas funcionalidades.
+| Nombre | Lenguaje |
+|---|---|
+| HTML | Marcado |
+| JavaScript | Programación |
+| Markdown | Documentación |
+
+## Lista de tareas pendientes
+
+- [x] Crear el repositorio.
+- [x] Crear el README.md.
+- [x] Añadir la carpeta images.
+- [ ] Mejorar la documentación.
+- [ ] Añadir más imágenes.
 
 ## Avisos
 
 > [!NOTE]
-> Este proyecto está pensado para practicar Markdown.
+> Este repositorio se utiliza para aprender Markdown.
 
 > [!WARNING]
-> Guarda los cambios antes de cerrar el proyecto.
+> Comprueba que las rutas de las imágenes sean correctas.
 
 ## Preguntas frecuentes
 
 <details>
-<summary>¿Cómo se abre el proyecto?</summary>
+<summary>¿Qué es Markdown?</summary>
 
-Abre el archivo `index.html` con un navegador.
+Es un lenguaje de marcado ligero que permite dar formato al texto de forma sencilla.
 
 </details>
 
 <details>
-<summary>¿Se pueden añadir nuevas funciones?</summary>
+<summary>¿Para qué sirve el README?</summary>
 
-Sí, el proyecto se puede ampliar en el futuro.
+Sirve para explicar el contenido y el funcionamiento de un proyecto.
 
 </details>
+
+## Diagrama
+
+```mermaid
+flowchart TD
+    A[Crear repositorio] --> B[Crear README]
+    B --> C[Añadir imágenes]
+    C --> D[Documentar proyecto]
+```
 
 ## Historial de cambios
 
