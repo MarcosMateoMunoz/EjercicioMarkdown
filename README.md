@@ -85,7 +85,7 @@ flowchart TD
 
 ## Historial de cambios
 
-Puedes consultar los cambios del proyecto en el archivo [CHANGELOG.md](CHANGELOG.md).
+Puedes consultar los cambios del proyecto en el archivo [CHANGELOG.md](Changelog.md).
 
 ## Licencia
 
